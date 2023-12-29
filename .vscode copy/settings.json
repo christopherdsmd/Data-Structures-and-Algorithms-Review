@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.cwd": "",
+    "files.associations": {
+        "ios": "cpp",
+        "new": "cpp"
+    }
+    
+    "editor.tokenColorCustomizations": {
+        "strings": "#FF5733"
+    }
+
+    ,"C_Cpp.errorSquiggles": "enabled"
+    
+}
